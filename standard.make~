@@ -101,15 +101,7 @@ libraries[ckeditor][download][type]= "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6.1/ckeditor_3.6.6.1.zip"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][destination] = "libraries"
-
-; Secureshare	
-libraries[socialshareprivacy][download][type]= "get"
-libraries[socialshareprivacy][download][url] = "http://www.heise.de/extras/socialshareprivacy/jquery.socialshareprivacy.zip"
-libraries[socialshareprivacy][directory_name] = "socialshareprivacy"
-libraries[socialshareprivacy][destination] = "libraries"
-
-
-
+	
 
 ; This will, by default, retrieve the latest recommended version of the project
 ; using its update XML feed on Drupal.org. If any of those defaults are not
